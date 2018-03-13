@@ -1,0 +1,5 @@
+C:\Users\vinic\source\repos\TesteWebMotors\DTO\bin\Debug\DTO.dll
+C:\Users\vinic\source\repos\TesteWebMotors\DTO\bin\Debug\DTO.pdb
+C:\Users\vinic\source\repos\TesteWebMotors\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\TesteWebMotors\DTO\obj\Debug\DTO.dll
+C:\Users\vinic\source\repos\TesteWebMotors\DTO\obj\Debug\DTO.pdb

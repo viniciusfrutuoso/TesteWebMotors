@@ -1,0 +1,13 @@
+C:\Users\vinic\source\repos\TesteWebMotors\DAL\bin\Debug\DAL.dll.config
+C:\Users\vinic\source\repos\TesteWebMotors\DAL\bin\Debug\DAL.dll
+C:\Users\vinic\source\repos\TesteWebMotors\DAL\bin\Debug\DAL.pdb
+C:\Users\vinic\source\repos\TesteWebMotors\DAL\bin\Debug\DTO.dll
+C:\Users\vinic\source\repos\TesteWebMotors\DAL\bin\Debug\EntityFramework.dll
+C:\Users\vinic\source\repos\TesteWebMotors\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vinic\source\repos\TesteWebMotors\DAL\bin\Debug\DTO.pdb
+C:\Users\vinic\source\repos\TesteWebMotors\DAL\bin\Debug\EntityFramework.xml
+C:\Users\vinic\source\repos\TesteWebMotors\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vinic\source\repos\TesteWebMotors\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\vinic\source\repos\TesteWebMotors\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\TesteWebMotors\DAL\obj\Debug\DAL.dll
+C:\Users\vinic\source\repos\TesteWebMotors\DAL\obj\Debug\DAL.pdb
